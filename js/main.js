@@ -18,4 +18,5 @@ lista.push("Goiaba")
 //lista.pop("Maçã");
 
 //console.log(lista.length);
-console.log(lista.reverse());
+//console.log(lista.reverse());   
+console.log(lista.toString());
