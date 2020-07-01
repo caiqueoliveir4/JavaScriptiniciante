@@ -1,3 +1,4 @@
+/*
 var nome = "Caique de Oliveira ";
 var idade = 27 ;
 var localDeNascimento = "Bahia ";
@@ -9,3 +10,8 @@ console.log(localDeNascimento);
 console.log(idade);
 console.log(frase.replace(" baiano", " gaucho"));
 alert(frase.replace("baiano", "gaucho"))
+*/
+
+var lista = ["Pêra", "Úva", "Maçã"];
+lista.push("Goiaba");
+console.log(lista);
