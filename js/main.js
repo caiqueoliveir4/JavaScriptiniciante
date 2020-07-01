@@ -13,5 +13,8 @@ alert(frase.replace("baiano", "gaucho"))
 */
 
 var lista = ["Pêra", "Úva", "Maçã"];
+/*
+lista.push("Goiaba")
 lista.pop("Maçã");
-console.log(lista);
+*/
+console.log(lista.length);
