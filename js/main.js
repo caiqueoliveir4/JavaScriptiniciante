@@ -20,3 +20,4 @@ lista.push("Goiaba")
 //console.log(lista.length);
 //console.log(lista.reverse());   
 console.log(lista.toString());
+console.log(lista.join(" - "));
