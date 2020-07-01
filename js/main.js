@@ -1,3 +1,7 @@
+var fruta = {nome: "Maçã", cor: "vermelha"}
+console.log(fruta.nome);
+alert(fruta.cor);
+
 /*
 var nome = "Caique de Oliveira ";
 var idade = 27 ;
@@ -12,12 +16,12 @@ console.log(frase.replace(" baiano", " gaucho"));
 alert(frase.replace("baiano", "gaucho"))
 */
 
-var lista = ["Pêra", "Úva", "Maçã"];
+//var lista = ["Pêra", "Úva", "Maçã"];
 
-lista.push("Goiaba")
+//lista.push("Goiaba")
 //lista.pop("Maçã");
 
 //console.log(lista.length);
 //console.log(lista.reverse());   
-console.log(lista.toString());
-console.log(lista.join(" - "));
+//console.log(lista.toString());
+//console.log(lista.join(" - "));
