@@ -1,10 +1,12 @@
-var idade = prompt(" Qual a sua idade?: ");
-if(idade >= 18){
+var idade = prompt(" Qual a sua idade?: "); 
+idade >=18?alert("Maior de idade"):alert("Menor de idade");
+
+/*if(idade >= 18){
     alert("Maior de idade");
 }else{
     alert("Mernor de idade");
 }
-
+*/
 
 
 
