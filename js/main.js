@@ -1,6 +1,17 @@
-var frutas = [{nome: "Maçã", cor: "vermelha"}, {nome: "uva", cor: "roxa"}]
+var idade = prompt(" Qual a sua idade?: ");
+if(idade >= 18){
+    alert("Maior de idade");
+}else{
+    alert("Mernor de idade");
+}
+
+
+
+
+/*var frutas = [{nome: "Maçã", cor: "vermelha"}, {nome: "uva", cor: "roxa"}]
 console.log(frutas);
 alert(frutas[1].nome);
+*/
 /*
 var fruta = {nome: "Maçã", cor: "vermelha"}
 console.log(fruta.nome);
