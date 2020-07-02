@@ -1,7 +1,11 @@
+var frutas = [{nome: "Maçã", cor: "vermelha"}, {nome: "uva", cor: "roxa"}]
+console.log(frutas);
+alert(frutas[1].nome);
+/*
 var fruta = {nome: "Maçã", cor: "vermelha"}
 console.log(fruta.nome);
 alert(fruta.cor);
-
+*/
 /*
 var nome = "Caique de Oliveira ";
 var idade = 27 ;
