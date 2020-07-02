@@ -1,6 +1,7 @@
 var validar = 0;
 
 function validarIdade(idade){
+     var validar;
     idade <=18? validar = true: validar = false;
     return validar;
     
@@ -8,6 +9,21 @@ function validarIdade(idade){
 var idade = prompt("qual sua idade?");
 validarIdade(idade);
 console.log(validar);
+
+
+
+/* função com variavel global
+var validar = 0;
+
+function validarIdade(idade){
+    idade <=18? validar = true: validar = false;
+    return validar;
+    
+}
+var idade = prompt("qual sua idade?");
+validarIdade(idade);
+console.log(validar);
+*/
 
 /* utilizando função
 function soma(n1, n2){
