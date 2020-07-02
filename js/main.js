@@ -1,5 +1,12 @@
-var idade = prompt(" Qual a sua idade?: "); 
-idade >=18?alert("Maior de idade"):alert("Menor de idade");
+var count = 0;
+while (count <=5){
+    console.log(count);
+    count = count + 1;
+}
+
+
+//var idade = prompt(" Qual a sua idade?: "); 
+//idade >=18?alert("Maior de idade"):alert("Menor de idade");
 
 /*if(idade >= 18){
     alert("Maior de idade");
