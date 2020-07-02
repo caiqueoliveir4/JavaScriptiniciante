@@ -1,8 +1,14 @@
+function soma(n1, n2){
+    return n1 + n2;    
+}
+alert(soma(5, 6));
+    
+/* laço for
 var count;
 for(count=0; count <=5;count++){
     alert(count);
 }
-
+*/
 
 /* laço while
 var count = 0;

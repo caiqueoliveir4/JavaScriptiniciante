@@ -1,0 +1,89 @@
+[33mcommit 5753220ff9b69c4965a92fce07c1b8cdb0865d95[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Thu Jul 2 12:00:48 2020 -0300
+
+     dando descrição a cada linha de codigo e utilizando laço for
+
+[33mcommit 8442fe327eff3ef866e8314070eac21576561269[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Thu Jul 2 11:51:17 2020 -0300
+
+     utilizando comando laço while
+
+[33mcommit 9ee054f6d9e736aa016d9c123e366fe04195903d[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Thu Jul 2 10:19:07 2020 -0300
+
+     utilizando if identario
+
+[33mcommit 52d434cf776cffe76879ee6eb0cabdf5b0267a18[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Thu Jul 2 09:57:04 2020 -0300
+
+    utilizando comando prompt e comando if
+
+[33mcommit 018cc8e751b49c14e02866f00fb186d679ee13dc[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Thu Jul 2 09:32:07 2020 -0300
+
+     criando dicionario
+
+[33mcommit ad56fb87d8516a1b3d2b5104eff224d610fa3bc0[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 10:17:57 2020 -0300
+
+     aprendendo a utilizar dicionario, no console.log
+
+[33mcommit 11e09f785a70dcad3b046f4c5255f6f0506b1bdf[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 10:04:24 2020 -0300
+
+    utilizando comando .join
+
+[33mcommit 163128bd98b0a25312be903359e8275c349b50d1[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 09:59:59 2020 -0300
+
+    utilizando lista.toString
+
+[33mcommit 4703e5aed99ed009975449eae8466badc4267ec2[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 01:26:20 2020 -0300
+
+     utilizando o comando .reverse
+
+[33mcommit e1880ff7b29dc509d438b8701f10581e6feb2ff2[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 01:21:22 2020 -0300
+
+     utilizando o comando .length
+
+[33mcommit 2f5f4826ebcf298f1e41b03246c254bee43f0854[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 01:13:30 2020 -0300
+
+     utilizando o comando .pop no array
+
+[33mcommit 6a09576beb6b56e48c7d7ee23fb16b94592bb750[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 01:10:46 2020 -0300
+
+     criando arrays e utilizando comando .push
+
+[33mcommit 24cd1ce254477be692c1855dd64ef6c831eb9966[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 00:52:49 2020 -0300
+
+     Utilizando console.log e replace
+
+[33mcommit a224c216c92d936f58514e5a2bf9cd02e1d29ce0[m
+Author: caiqueoliveir4 <caiquepark@hotmail.com>
+Date:   Wed Jul 1 00:39:18 2020 -0300
+
+     Primeiro commit, iniciando js com variaveis e alerts
+
+[33mcommit 713ad7db6e75c2cc559ede8ef249059a0119ae26[m
+Author: caiqueoliveir4 <63747145+caiqueoliveir4@users.noreply.github.com>
+Date:   Mon Jun 29 18:27:08 2020 -0300
+
+    Initial commit
