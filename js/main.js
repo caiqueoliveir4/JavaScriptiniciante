@@ -11,6 +11,10 @@ function trocar(){
     document.getElementById("mousemove").innerHTML = "obrigado por passar o mouse";
 }
 
+function voltar(){
+    document.getElementById("mousemove").innerHTML = "valeu por passar o mouse";
+}
+
 /*
 function clicou(){
     alert("Você acionou a função clicar");
