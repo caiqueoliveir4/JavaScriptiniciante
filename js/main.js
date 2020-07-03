@@ -15,6 +15,11 @@ function voltar(){
     document.getElementById("mousemove").innerHTML = "valeu por passar o mouse";
 }
 
+function funcaoChange(elemento){
+    console.log(elemento.value);
+    
+}
+
 /*
 function clicou(){
     alert("Você acionou a função clicar");
