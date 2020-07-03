@@ -1,7 +1,14 @@
 function clicou(){
-    alert("Você acionou a função clicar");
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>"
 }
 
+
+
+/*
+function clicou(){
+    alert("Você acionou a função clicar");
+}
+*/
 
 /* função com variavel local
 var validar = 0;
