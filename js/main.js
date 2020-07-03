@@ -1,3 +1,9 @@
+function clicou(){
+    alert("Você acionou a função clicar");
+}
+
+
+/* função com variavel local
 var validar = 0;
 
 function validarIdade(idade){
@@ -9,7 +15,7 @@ function validarIdade(idade){
 var idade = prompt("qual sua idade?");
 validarIdade(idade);
 console.log(validar);
-
+*/
 
 
 /* função com variavel global
