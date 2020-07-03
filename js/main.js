@@ -7,6 +7,9 @@ function redirecionar(){
     
 }
 
+function trocar(){
+    document.getElementById("mousemove").innerHTML = "obrigado por passar o mouse";
+}
 
 /*
 function clicou(){
